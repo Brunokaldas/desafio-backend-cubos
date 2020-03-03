@@ -40,8 +40,8 @@ yarn dev
 # Listar regras criadas
 http://localhost:3333/appointments
 
-# Listar os horários disponíveis criados pelas regras
-http://localhost:3333/schedules
+# Listar os horários disponíveis criados pelas regras passando os parâmentos na query
+http://localhost:3333/schedules?startDate=dd-MM-yyyy&endDate=dd-MM-yyyy
 
 //DELETE
 # Remover uma regra informando o id
