@@ -20,16 +20,16 @@ yarn dev
 # Bibliotecas utilizdas
 
 - Express
-    - sem opinião. Dá a liberdade de criar a estrutura da forma que a gente quiser.
+    - Dá a liberdade de criar a estrutura da forma que a gente quiser.
     - Ótimo para utilizar micro-serviços;
 - Nodemon
-    - instalei essa dependência em modo de desenvolvimento
+    - Instalei essa dependência em modo de desenvolvimento
     - reinicia aplicação de forma automática caso haja alguma alteração;
 - Sucrase
     - Possibilita a utilização de  funcionalidade do JavaScript que o node ainda não suporta.
     - Estou utilizando por questão de preferência.
 - Date-fns
-    - facilita a manipulação do tipo Data.
+    - Facilita a manipulação do tipo Data.
 
 
 # EndPoints 
@@ -52,7 +52,7 @@ http://localhost:3333/appointment/:id
 
 http://localhost:3333/appointments
  
-é prciso passar no body da requisição:
+É prciso passar no body da requisição:
 # Se for cadastrar uma regra específica:
 {
 	"type": "specific",
