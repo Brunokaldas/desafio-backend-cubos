@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "type": "specific",
+    "date": "01-02-2019",
+    "intervals": [{ "start": "12:00", "end": "12:20" }]
+  },
+  {
+    "id": 2,
+    "type": "daily",
+    "intervals": [{ "start": "10:00", "end": "10:30" }]
+  },
+  {
+    "id": 3,
+    "type": "weekly",
+    "days": [0, 1, 5],
+    "intervals": [{ "start": "10:00", "end": "10:30" }]
+  },
+  {
+    "id": 4,
+    "type": "specific",
+    "date": "03-02-2019",
+    "intervals": [{ "start": "15:30", "end": "16:00" }]
+  },
+  {
+    "id": 6,
+    "type": "specific",
+    "date": "13-02-2020",
+    "intervals": [{ "start": "15:30", "end": "16:00" }]
+  },
+  {
+    "id": 7,
+    "type": "specific",
+    "date": "13-02-2020",
+    "intervals": [{ "start": "15:30", "end": "16:00" }]
+  },
+  {
+    "id": 8,
+    "type": "daily",
+    "intervals": [{ "start": "07:30", "end": "8:00" }]
+  }
+]
